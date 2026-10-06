@@ -47,7 +47,7 @@ x-website: https://www.brightviewtechnologies.com/
 x-industry: optics-and-photonics-manufacturing
 specificationVersion: '0.23'
 created: '2026-07-17'
-modified: '2026-07-18'
+modified: '2026-10-06'
 tags:
 - Company
 - Optics
@@ -63,6 +63,8 @@ tags:
 - Hardware
 apis: []
 common:
+- url: https://www.brightviewtechnologies.com/about/news
+  type: Blog
 - type: DomainSecurity
   url: security/bright-view-technologies-domain-security.yml
 - type: Website
